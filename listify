@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Chennai Super Kings/title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="jumbotron">
+            <h1>Chennai Super Kings</h1>
+            <div><b>Home Ground:</b> Chidambaram Stadium,Chennai</div>
+            <div><b>Owner:</b> Gulf</div>
+        </div>
+        <div class="container">
+            <div class="row m-0">
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>M.S.Dhoni</h5>
+                        <div>Captain,wicket keeper, Batsman</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Shane watson</h5>
+                        <div>Batsman</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Du Plessis</h5>
+                        <div>Batsman</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Suresh Raina</h5>
+                        <div>Batsman</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>DJ Bravo</h5>
+                        <div>Pace Bowler</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Dwayne bravo</h5>
+                        <div>Pace Bowler</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Shardul thakur</h5>
+                        <div>Pace Bowler</div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
