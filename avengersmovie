@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Avengers</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+      <img src="https://images8.alphacoders.com/100/1003220.png"> 
+    <body> 
+        <div class="jumbotron">
+            <h1>The Avengers </h1>
+            <div><b>United we stand,Divided we fall</b></div>
+            <div><b>Marvel Cinematic Universe</b> </div>
+        </div>
+        <div class="container">
+            <div class="row m-0">
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Robertdowney Jr</h5>
+                        <div>Ironman</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Chris Evans</h5>
+                        <div>Captain America</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Chris Hemsworth</h5>
+                        <div>Thor</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Mark Ruffalo</h5>
+                        <div>Hulk</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Jermy Rener</h5>
+                        <div>Hawkeye</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                        <h5>Scarlette Johanson</h5>
+                        <div>BLackwidow</div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card player-card p-4">
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
